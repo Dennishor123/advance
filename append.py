@@ -11,4 +11,4 @@ print(reversed_elements)
 
 #JOIN THE REVERSED
 new_str= ' '.join(reversed_elements)
-print(new_str)
+print(new_str) 
